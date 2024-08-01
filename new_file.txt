@@ -1,9 +1,6 @@
 some brand new file 1
 some changes for main branch
 some main lines again
-ADDED A NEW LINE
-AGAIN NEW LINE
-some changes in main
-main changes 4
+NEW LINE
 BUGGY CODE ON BRANCH5
 CHANGING IN MAIN BRANCH
